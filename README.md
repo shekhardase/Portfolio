@@ -1,3 +1,5 @@
 # Portfolio
 Portfolio (in progress) 
-[Portfolio]([URL](https://shekhardase.github.io/Portfolio/))
+<hr>
+[Portfolio](https://shekhardase.github.io/Portfolio/)
+
